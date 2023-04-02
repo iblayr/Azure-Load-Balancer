@@ -2,6 +2,7 @@
  
 ## Arquitetura
 
+![Arquitetura](https://user-images.githubusercontent.com/25647623/229380898-8190967a-4c06-4510-ac6d-feaa6e2b9331.png)
 
 
 <p>Para criar o ambiente descrito, primeiro acessei o Portal do Azure e criei uma Virtual Network (VNET), com duas sub-redes (Subnets) dentro dela e um Grupo de Segurança de Rede (NSG) para controlar o acesso aos recursos. Em seguida, criei duas máquinas virtuais (VMs) usando a opção de Disponibilidade de Zona, para garantir alta disponibilidade e resiliência em caso de falhas.</p>
